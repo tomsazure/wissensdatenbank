@@ -1,22 +1,22 @@
-Schwarwälder Kirschtorte
+# Schwarzwälder Kirschtorte
 
-Einkaufsliste: 
+## Einkaufsliste: 
 
-Für den Biskuitboden: 
+### Für den Biskuitboden: 
 
-6 Eier 
+- 6 Eier 
 
-150 g Zucker 
+- 150 g Zucker 
 
-1 Päckchen Vanillezucker 
+- 1 Päckchen Vanillezucker 
 
-100 g Mehl 
+- 100 g Mehl 
 
-50 g Speisestärke 
+- 50 g Speisestärke 
 
-30 g Kakaopulver 
+- - 30 g Kakaopulver 
 
-1 TL Backpulver 
+- 1 TL Backpulver 
 
 Für die Füllung: 
 
